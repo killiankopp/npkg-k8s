@@ -1,0 +1,11 @@
+NameSpace: karned
+AppName: npkg-db
+NodePort: 32141
+
+MariadbReplicas: 1
+MariadbImageTag: latest
+MariadbDiskSize: 5Gi
+MariadbServerId: 2
+MariadbDbName: npkgroup
+MariadbDbUser: npkgroup
+MariadbDbPort: 3306
